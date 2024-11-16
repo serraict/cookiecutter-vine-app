@@ -1,6 +1,6 @@
 # Cookiecutter Vine App
 
-A cookiecutter template for creating data integration and visualization applications based on the Serra Vine platform architecture.
+A cookiecutter template for creating applications for Serra Vine.
 
 ## Features
 
